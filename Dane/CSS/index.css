@@ -1,0 +1,55 @@
+.header {
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(./Zdjecia/pattern.jpeg);
+
+}
+
+.rozdzial {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#Brushes {
+    background-color: mediumspringgreen;
+}
+
+#Frames
+{
+background-color: lightcoral;
+}
+
+#Paint
+{
+background-color: skyblue;
+}
+img {
+
+    width: 250px;
+    height: 250px;
+    display: inline-block
+}
+
+.tytul {
+
+    font-weight: bold;
+    color: black;
+    font-family: Helvetica, sans-serif;
+}
+
+.text {
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+
+}
+
+.bluetext {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
